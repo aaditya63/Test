@@ -1,0 +1,50 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: blueviolet;
+    text-align: center;
+    text-transform: capitalize;
+    font : normal 500 25px poppins;
+}
+div.first{
+    border:1px solid black;
+    margin : 0px 0px 0px 0px;
+    background-color: bisque;
+}
+div.boxes{
+    border: 2px solid black;
+    background-color: aquamarine;
+    border-radius: 25px;
+    margin : 10px 10px 10px 10px;
+    width: 350px;
+    height: 250px;
+    float: left;
+    padding: 10px 10px 10px 10px;
+}
+#ftext{
+    text-align: justify;
+    color: black;
+    font : normal 800 16px poppins;
+}
+form{
+    color:black;
+    font: normal 800 16px poppins;
+}
+input{
+    width: 95%;
+    height: 25px;
+    margin: 5px 5px 5px 5px;
+}
+img{
+    margin-top: 40px;
+    margin-left: 70px;
+    border-radius: 15px;
+}
+fieldset{
+    font: normal 500 20px poppins;
+    background-color:darkgray;
+}
+p{
+    font: normal 500 20px poppins;
+}
